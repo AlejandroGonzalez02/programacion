@@ -1,4 +1,6 @@
 package IPodeMoverse;
 
-public class IPodeCamiñar {
+public interface IPodeCamiñar {
+    public void podoCamiñar();
+
 }

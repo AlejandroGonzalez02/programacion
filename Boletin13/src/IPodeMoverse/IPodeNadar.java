@@ -1,4 +1,5 @@
 package IPodeMoverse;
 
-public class IPodeNadar {
+public interface IPodeNadar {
+    public void podoNadar();
 }

@@ -1,4 +1,5 @@
 package IPodeMoverse;
 
-public class IPodeVoar {
+public interface IPodeVoar {
+    public void podoVoar();
 }
